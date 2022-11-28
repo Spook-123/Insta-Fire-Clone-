@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "840436884750",
+    "project_id": "insta-fire-clone-6439e",
+    "storage_bucket": "insta-fire-clone-6439e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840436884750:android:6ff856c58e8dfb7ac6635f",
+        "android_client_info": {
+          "package_name": "com.sumeet.insta_fireclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840436884750-30k5bbmhf9k3tdgp6gokijbs36od5l1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHfTvI4LgChKBsGUb5ZnVUBn8enIpHDCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840436884750-30k5bbmhf9k3tdgp6gokijbs36od5l1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
